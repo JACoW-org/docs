@@ -1,0 +1,15 @@
+site_name: JACoW - Documentation
+#site_url: https://docs.JACoW.org
+theme: material
+repo_name: 'jacow-org/docs'
+repo_url: 'https://github.com/jacow-org/docs'
+nav:
+  - Introduction: index.md
+  - Glossary: glossary.md
+  - General instructions:
+    - How to login to the Indico event: General/JACoWlogin.md
+    - How to submit an abstract: General/submission.md
+    - How to edit your abstracts: General/editing.md
+    - How to edit your contributions: General/contributions.md
+  - Credits: credits.md
+  - FAQ: FAQ.md
