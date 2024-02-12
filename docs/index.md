@@ -33,3 +33,4 @@ Browse the [General](General/JACoWlogin/) section of this site for basic instruc
 - [JACoW website](https://www.JACoW.org)
 - [Indico](https://getindico.io)
 - [Indico end-user documentation](https://learn.getindico.io/)
+- [JACoW Indico plugin](https://github.com/indico/indico-plugin-jacow)
