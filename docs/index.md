@@ -5,10 +5,11 @@
 This site hosts the general documentation on **how to run a JACoW conference 
 with [Indico](https://getindico.io)**. For specific instructions about a particular conference, please use the following index.
 
-| Conference | Documentation site                                 |
-| ---------- | -------------------------------------------------- |
-| IPAC       | [ipac-docs.jacow.org](https://ipac-docs.jacow.org) |
-| FEL        | [fel-docs.jacow.org](https://fel-docs.jacow.org)   |
+| Conference | Documentation site                                   |
+| ---------- | ---------------------------------------------------- |
+| IPAC       | [ipac-docs.jacow.org](https://ipac-docs.jacow.org)   |
+| ECRIS      | [ecris-docs.jacow.org](https://ecris-docs.jacow.org) |
+| FEL        | [fel-docs.jacow.org](https://fel-docs.jacow.org)     |
 
 Browse the [General](General/JACoWlogin/) section of this site for basic instructions like how to login or manage your JACoW account.
 
