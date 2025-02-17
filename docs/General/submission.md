@@ -2,7 +2,7 @@
 
 ## Login to the Indico event
 
-See [How to login to the Indico event](JACoWlogin.md) for details on how to login to the Indico event.
+See [How to login to Indico](login.md) for details on how to login to the Indico event.
 
 ## Create a new abstract
 
