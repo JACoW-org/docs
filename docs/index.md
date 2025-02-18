@@ -11,7 +11,7 @@ with [Indico](https://getindico.io)**. For specific instructions about a particu
 | ECRIS      | [ecris-docs.jacow.org](https://ecris-docs.jacow.org) |
 | FEL        | [fel-docs.jacow.org](https://fel-docs.jacow.org)     |
 
-Browse the [General](General/JACoWlogin/) section of this site for basic instructions like how to login or manage your JACoW account.
+Browse the [General](General/login/) section of this site for basic instructions like how to login or manage your JACoW account.
 
 ## JACoW tools documentation
 
