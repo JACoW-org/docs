@@ -1,6 +1,6 @@
 # Logging onto Indico after the 25th of February 2025
 
-*JACoW* changed its authentication method. While previously the *JACoW Central Repository*/*SPMS* was used, now *JACoW Indico* itself is going to be the source for user profiles. All existing *JACoW Indico* accounts have been preserved, but the authentication method has changed and **log-in details need to be reset your **.
+*JACoW* changed its authentication method. While previously the *JACoW Central Repository*/*SPMS* was used, now *JACoW Indico* itself is going to be the source for user profiles. All existing *JACoW Indico* accounts have been preserved, but the authentication method has changed and **your log-in details need to be reset**.
 
 There are two possible scenarios:
 

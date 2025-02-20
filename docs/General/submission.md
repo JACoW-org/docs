@@ -26,7 +26,7 @@ All fields marked with a **red star** are mandatory. Below the image all needed 
 
 * **Authors**: enter the list of authors by clicking on the **Search** button:
   
-    * search for the persons from the **JACoW Central Repository** by providing *Family name* and/or *Given (First) name* and/or *Email address* and/or *Affiliation*. Be sure that the "**Include users with no Indico account**" is selected![](img/author_search.png)
+    * search for the persons by providing *Family name* and/or *Given (First) name* and/or *Email address* and/or *Affiliation*. [](img/author_search.png)
   
     * any found person will appear to the right. **Click on the plus sign**
       ![](img/author_add_1.png)
@@ -38,7 +38,7 @@ All fields marked with a **red star** are mandatory. Below the image all needed 
   
     * then mark the person that will present this abstract at the conference as "**Speaker**" (for posters this will be "*presenter*"). To perform this action  **click on the "*Speaker*" icon** to the right of the name
   
-    * you can change the default affiliation by clicking on the "Multiple Affiliations" icon:
+    * you can change the default affiliation by clicking on the "Edit affiliations" icon:
       ![](img/author_edit_affiliations.png)
       which opens a new window where you can search for the affiliation you want:
       ![](img/affiliation_search.png)
@@ -48,7 +48,7 @@ All fields marked with a **red star** are mandatory. Below the image all needed 
       
       After saving the multiple affiliations will be displayed for this author:![](img/author_multiple_affiliations.png)
   
-    * if you cannot find the right person in the Central Repository, please follow the directions in the [Creating JACoW profiles for new authors](#creating-jacow-profiles-for-new-authors) section below, then do the search again and select the newly created profile
+    * if you cannot find the right person in the *JACoW Indico*, please follow the directions in the [Creating Indico JACoW profiles for new authors](#creating-indico-jacow-profiles-for-new-authors) section below.
 
 ---
 
@@ -70,21 +70,18 @@ All fields marked with a **red star** are mandatory. Below the image all needed 
 
 The instructions above cover a generic JACoW conference. However, any specific edition can request to enter additional data by way of additional fields at the bottom of the submission form. Please refer to the particular instructions for the specific event. 
 
-## Creating JACoW profiles for new authors
+## Creating Indico JACoW profiles for new authors
 
-As explained in [JACoW Profiles and Accounts](JACoWlogin.md#your-jacow-account) whenever you need to add a person (usually, co-author) to an abstract it is necessary to create a profile for them in the JACoW Central Repository. To do this, follow this easy steps:
+Whenever you need to add a person (usually, co-author) to an abstract it is necessary to follow these easy steps:
 
-1. access the [JACoW Central Repository User Profiles](https://oraweb.cern.ch/pls/jacow/profile.find_author?abs_id=1001) web page and search by way of last name or email address:
-   ![](img/ProfilesSearch.png)
+1. search for the person on the *JACoW Indico* by providing *Family name* and/or *Given (First) name* and/or *Email address* and/or *Affiliation*. Please double check for any misspelings. Proceed only if you are sure that the person is not listed on the *JACoW Indico*. [](img/author_search.png)
 
-2. from the search results page, click on the "**Create a new author**" link towards the bottom of the page:
-   ![](img/ProfileSearchResults.png)
+2. after exhausting your search terms, if the person is not listed, click on the "**add them manually**" link on the message at the bottom of the search results:
+   ![](img/author_search_no_results.png)
 
-3. Enter all needed information in the New profile entry form:
-   ![](img/NewProfileForm.png)
-   take particular care in selecting the right affiliation by searching with the "**Search for Affiliation**" button
+3. Enter all needed information in the form:
+   ![](img/author_search_enter_person.png)
 
-4. When all the information is ready press the "**Submit**" button. You'll get a notification of the completion of the process:
-   ![](img/ProfileAdded.png)
+4. When all the information is ready press the "**Save**" button. You should see the new person listed in the authors list: ![](img/author_list_new_person.png)
 
-5. Now, **do not click on "Continue"**. Instead, go back to the [search for authors in Indico](#create-a-new-abstract) above.
+5. Now you can continue the [search for authors in Indico](#create-a-new-abstract) instructions above, taking particular care to set their affiliation(s) correctly as well as their roles (author/co-author, speaker or not).
