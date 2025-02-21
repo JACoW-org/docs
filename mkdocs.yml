@@ -3,6 +3,8 @@ site_name: JACoW - Documentation
 theme: material
 repo_name: 'jacow-org/docs'
 repo_url: 'https://github.com/jacow-org/docs'
+markdown_extensions:
+  - admonition
 nav:
   - Introduction: index.md
   - Glossary: glossary.md

@@ -1,5 +1,9 @@
 # How to login to the Indico event
 
+!!! warning "Deprecation Warning"
+    As of the 25th of January 2025, the JACoW Central Repository/SPMS has been retired. Thus, **these instructions are deprecated**.
+    Please see [How to login to Indico]((login.md)) instead.
+
 ## Getting to the Indico event
 
 The address of the indico event you want to access is surely published on the website of the conference (e.g., <https://ipac23.org>, <https://ipac24.org> etc.)
