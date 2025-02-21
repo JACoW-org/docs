@@ -48,7 +48,7 @@ All fields marked with a **red star** are mandatory. Below the image all needed 
       
       After saving the multiple affiliations will be displayed for this author:![](img/author_multiple_affiliations.png)
   
-    * if you cannot find the right person in the *JACoW Indico*, please follow the directions in the [Creating Indico JACoW profiles for new authors](#creating-indico-jacow-profiles-for-new-authors) section below.
+    * if you cannot find the right person in the *JACoW Indico*, please follow the directions in the [Creating JACoW Indico profiles for new authors](#creating-indico-jacow-profiles-for-new-authors) section below.
 
 ---
 
@@ -70,7 +70,7 @@ All fields marked with a **red star** are mandatory. Below the image all needed 
 
 The instructions above cover a generic JACoW conference. However, any specific edition can request to enter additional data by way of additional fields at the bottom of the submission form. Please refer to the particular instructions for the specific event. 
 
-## Creating Indico JACoW profiles for new authors
+## Creating JACoW Indico profiles for new authors
 
 Whenever you need to add a person (usually, co-author) to an abstract it is necessary to follow these easy steps:
 
