@@ -8,6 +8,9 @@ repo_name: 'jacow-org/docs'
 repo_url: 'https://github.com/jacow-org/docs'
 markdown_extensions:
   - admonition
+plugins:
+  - open-in-new-tab:
+      add_icon: true
 nav:
   - Introduction: index.md
   - Glossary: glossary.md
