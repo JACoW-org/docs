@@ -1,6 +1,9 @@
 site_name: JACoW - Documentation
 #site_url: https://docs.JACoW.org
-theme: material
+theme: 
+  name: material
+  palette:
+    primary: blue
 repo_name: 'jacow-org/docs'
 repo_url: 'https://github.com/jacow-org/docs'
 markdown_extensions:
