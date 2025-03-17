@@ -2,7 +2,7 @@
 
 !!! warning "Deprecation Warning"
     As of the 17th of March 2025, the JACoW Central Repository/SPMS has been retired. Thus, **these instructions are deprecated**.
-    Please see [How to login to Indico]((login.md)) instead.
+    Please see [How to login to Indico](login.md) instead.
 
 ## Getting to the Indico event
 
