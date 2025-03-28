@@ -1,5 +1,15 @@
 # Logging onto Indico after the 17th of March 2025
 
+!!! info "Old usernames no longer valid"
+    Please note that to login to JACoW Indico you now have to use **your email address as your username**. The old JACoW username you may have used in the past is no longer valid for login.
+    
+
+
+!!! info "Password managers and keychaing"
+    If you saved your JACoW username and password in your browser password manager or in an external Keychain, please be sure to update them as well to avoid invalid credentials.
+
+
+
 *JACoW* changed its authentication method. While previously the *JACoW Central Repository*/*SPMS* was used, now *JACoW Indico* itself is going to be the source for user profiles. All existing *JACoW Indico* accounts have been preserved, but the authentication method has changed and **your log-in details need to be reset**.
 
 There are two possible scenarios:
