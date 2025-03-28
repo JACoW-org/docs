@@ -24,18 +24,21 @@ Please consider the three buttons on the top right. With these it is possible to
 
 After clicking on the pencil button it is possible to edit the contribution details.
 
-In particular:
-
-- **Title**: this should reflect the title that will be written in the paper or the proceedings. *Title of  Oral Presentations should not be modified* without getting the permission by the Scientific Secretariat, so please check with them whenever a change is needed;
-
-- **Description**: this is the abstract for the contribution. Please use text-only material (i.e., no MarkDown, no HTML, no LaTeX, ...) and avoid copying and pasting from word processors which could introduce badly printing symbols;
-
-- **List of authors/speakers** (People): we recommend to use the "Author" type for the corresponding/first author and  "Co-author" for all the others. The order is not important ans since it will be adjusted automatically when creating the proceedings.
-
 ![](img/contributionedit.png)
 
-Whenever you would need to add co-authors which do not have a JACoW profile, please follow the instructions about [how to create JACoW profiles for new authors](../submission/#creating-jacow-profiles-for-new-authors)
+In particular:
 
-It is also important to check who is the **speaker** (for orals) or presenter (for posters): this person needs to have the "**microphone button**" highlighted.
+- **Title**: this should reflect the title that will be written in the paper or the proceedings, using [Sentence case](https://writer.com/blog/sentence-case/). *Title of Oral Presentations should not be modified* without getting the permission by the Scientific Secretariat, so please check with them whenever a change is needed;
+
+- **Description**: this is the abstract for the contribution. Please use **text-only** material (i.e., *no MarkDown, no HTML, no LaTeX*, ...) and avoid copying and pasting from word processors which could introduce badly printing symbols;
+
+- **List of authors/speakers** (People): we recommend to use the "Author" type for the corresponding/first author and  "Co-author" for all the others. The order is not important ans since it will be adjusted automatically when creating the proceedings. Be sure that only one person is marked as "**Speaker**" (for posters this will be "*presenter*"). To perform this action **click on the "*Speaker*" icon** to the right of the name
+  ![](img/author_add_3.png)
+
+It is very important to check who is the **speaker** (for orals) or presenter (for posters): this person needs to have the "**microphone button**" highlighted.
 
 Those authors that will also have the "**paper clip**" button highlighted will be considered **submitters**: they will be able to modify the contribution and upload files for presentation/proceedings.
+
+Whenever you would need to add co-authors which do not have a JACoW profile, please follow the instructions about [how to create JACoW profiles for new authors](../submission/#creating-jacow-indico-profiles-for-new-authors)
+
+Refer to the instructions on [how to create an abstract](../submission/#create-a-new-abstract) if you need more details on the contribution fields.
