@@ -13,6 +13,10 @@ with [Indico](https://getindico.io)**. For specific instructions about a particu
 
 Browse the [General](General/login/) section of this site for basic instructions like how to login or manage your JACoW account.
 
+## IT documentation
+
+All the how-to's for conference IT managers are available at http://it-docs.jacow.org/.
+
 ## JACoW tools documentation
 
 | Tool                                                                                                                                  | Documentation site                                                                    |
