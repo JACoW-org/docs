@@ -15,7 +15,7 @@ Browse the [General](General/login/) section of this site for basic instructions
 
 ## IT documentation
 
-All the how-to's for conference IT managers are available at http://it-docs.jacow.org/.
+All the how-to's for conference IT managers are available at [http://it-docs.jacow.org/](http://it-docs.jacow.org/).
 
 ## JACoW tools documentation
 
