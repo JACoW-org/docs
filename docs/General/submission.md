@@ -48,7 +48,7 @@ All fields marked with a **red star** are mandatory. Below the image all needed 
       
       After saving the multiple affiliations will be displayed for this author:![](img/author_multiple_affiliations.png)
   
-    * if you cannot find the right person in the *JACoW Indico*, please follow the directions in the [Creating JACoW Indico profiles for new authors](#creating-indico-jacow-profiles-for-new-authors) section below.
+    * if you cannot find the right person in the *JACoW Indico*, please follow the directions in the [Creating JACoW Indico profiles for new authors](#creating-jacow-indico-profiles-for-new-authors) section below.
 
 ---
 
