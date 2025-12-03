@@ -28,7 +28,7 @@ After clicking on the pencil button it is possible to edit the contribution deta
 
 In particular:
 
-- **Title**: this should reflect the title that will be written in the paper or the proceedings, using [Sentence case](https://writer.com/blog/sentence-case/). *Title of Oral Presentations should not be modified* without getting the permission by the Scientific Secretariat, so please check with them whenever a change is needed;
+- **Title**: this should reflect the title that will be written in the paper or the proceedings, using [Sentence case](https://www.scribbr.com/academic-writing/sentence-case/). *Title of Oral Presentations should not be modified* without getting the permission by the Scientific Secretariat, so please check with them whenever a change is needed;
 
 - **Description**: this is the abstract for the contribution. Please use **text-only** material (i.e., *no MarkDown, no HTML, no LaTeX*, ...) and avoid copying and pasting from word processors which could introduce badly printing symbols;
 
