@@ -9,10 +9,11 @@ with [Indico](https://getindico.io)** and related tools needed before, during an
 
 The [General](General/login/) section of this site contains basic instructions for common user actions, like *how to login* or *manage your JACoW account*. 
 
-## How-to organise a JACoW Conference (manual)
+## JACoW Conference Manual
 
 [![Icon by Icon home - https://www.freepik.com](img/user-guide.png){ align=left }](https://ipac-docs.jacow.org) Every JACoW conference is made equal, but some are more equal than others. 
-The [manual](https://ipac-docs.jacow.org) made for IPAC covers all the aspects needed to organise a JACoW conference, even for smaller ones (which can simplify some workflows or settings). It is available at the address [ipac-docs.jacow.org](https://ipac-docs.jacow.org).
+The [manual](https://ipac-docs.jacow.org) made for IPAC covers all the aspects of a JACoW conference. The manual includes how-tos for broad scope efforts, such as for organising committees, as well as workflows and other details for authors and editors. 
+It is available at the address [ipac-docs.jacow.org](https://ipac-docs.jacow.org).
 
 ## IT documentation
 
