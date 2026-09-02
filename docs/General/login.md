@@ -2,13 +2,9 @@
 
 !!! info "Old usernames no longer valid"
     Please note that to login to JACoW Indico you now have to use **your email address as your username**. The old JACoW username you may have used in the past is no longer valid for login.
-    
-
 
 !!! info "Password managers and keychaing"
     If you saved your JACoW username and password in your browser password manager or in an external Keychain, please be sure to update them as well to avoid invalid credentials.
-
-
 
 *JACoW* changed its authentication method. While previously the *JACoW Central Repository*/*SPMS* was used, now *JACoW Indico* itself is going to be the source for user profiles. All existing *JACoW Indico* accounts have been preserved, but the authentication method has changed and **your log-in details need to be reset**.
 
@@ -32,14 +28,14 @@ If you are still in doubt which scenario applies to you, **proceed with Scenario
 
 ### Scenario A: I have a JACoW Central Repository account and have previously logged into JACoW Indico
 
-1. Open the https://indico.jacow.org/reset-password/.
+1. Open the [https://indico.jacow.org/reset-password/](https://indico.jacow.org/reset-password/).
 2. Enter the email address linked to your Central Repository account. ![](img/login_reset.png)
      - If you are not sure of the correct email address, you can try different addresses here. If it is the wrong address, you will get this error: ![](img/login_reset_error.png)
      - If you get this error, please **go back to point 1**. If you have exhausted your list of possible addresses, jump to **[Scenario B](#scenario-b-i-have-never-logged-into-jacow-indico-and-may-or-may-not-have-a-central-repository-account)**.
 3. Once you are successful, you should see the following screen: ![](img/login_reset_success.png)
 4. You should shortly receive an email containing the reset link like such: ![](img/login_reset_email.png)
      - Check your SPAM folder if you cannot find this in your inbox.
-5. Follow the provided link and enter your desired *email address*, *password* and confirm your **password*.
+5. Follow the provided link and enter your desired *email address*, *password* and confirm your *password*.
 6. You should now be logged in! You can use your *email address* and *password* for future logins. Moreover, if you forget your password, you can reset it in the future following the same procedure.
 
 ### Scenario B: I have never logged into JACoW Indico and may or may not have a Central Repository account
@@ -58,4 +54,4 @@ If you are still in doubt which scenario applies to you, **proceed with Scenario
 
 ## Dealing with duplicate accounts
 
-If you find that you have more than one JACoW Indico account in your name and you wish to merge them, please contact indico-support@jacow.org listing the e-mail addresses of the accounts you wish to merge.
+If you find that you have more than one JACoW Indico account in your name and you wish to merge them, please contact `indico-support@jacow.org` listing the e-mail addresses of the accounts you wish to merge.
